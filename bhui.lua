@@ -85,7 +85,7 @@ function a:New()
 	H.Parent = n;
 	H.BackgroundTransparency = 1;
 	H.Size = UDim2.new(0, 17, 0, 17)
-	H.Image = "rbxassetid://13020981550"
+	H.Image = "rbxassetid://518398610"
 	H.ZIndex = 1000;
 	H.ImageColor3 = Color3.fromRGB(255, 0, 255)
 	function zigzag(I)
@@ -333,7 +333,7 @@ function a:New()
 	o.BorderColor3 = Color3.fromRGB(0, 0, 0)
 	o.Position = UDim2.new(0.5, - 305, 0.5, - 200)
 	o.Size = UDim2.new(0, 610, 0, 400)
-	o.Image = "rbxassetid://6115686715"
+	o.Image = "rbxassetid://13020981550"
 	o.Active = true;
 	local a7 = game:GetService("Players")
 	local a8 = a7.LocalPlayer;
